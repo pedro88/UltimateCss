@@ -23,6 +23,7 @@ html {
 	font-weight: 800;
 	line-height: 38.4px;
 	color: white;
+    text-transform: uppercase;
 }
 .logo span {
 	color: rgb(230, 96, 107);
@@ -62,6 +63,7 @@ html {
 	letter-spacing: 0.045em;
 	color: white;
 	margin-bottom: 10px;
+    text-transform: uppercase;
 }
 .top_left_container h2 {
 	font-family: Barlow;
@@ -71,6 +73,7 @@ html {
 	letter-spacing: 0.045em;
 	color: #e8ab36;
 	margin-bottom: 10px;
+    text-transform: uppercase;
 }
 .top_left_container p {
 	font-family: Barlow;
