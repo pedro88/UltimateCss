@@ -7,7 +7,7 @@ html {
 }
 
 .container {
-	max-width: 1440px;
+	max-width: 1170px;
 	margin: 0 auto;
 }
 .header_flex_container {
@@ -17,6 +17,9 @@ html {
 	margin-bottom: 100px;
 	margin-top: 20px;
 }
+.logo {
+    margin: 0px;
+}
 .logo h6 {
 	font-family: Barlow;
 	font-size: 32px;
@@ -24,6 +27,7 @@ html {
 	line-height: 38.4px;
 	color: white;
     text-transform: uppercase;
+    
 }
 .logo span {
 	color: rgb(230, 96, 107);
@@ -34,6 +38,7 @@ html {
 	justify-content: space-around;
 	align-items: center;
 	width: 30%;
+    margin: 0px;
 }
 .menu_flex_container p {
 	font-family: Barlow;
