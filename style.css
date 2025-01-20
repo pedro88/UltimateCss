@@ -3,7 +3,8 @@
 	padding: 0;
 }
 html {
-	background-color: rgb(40, 40, 79);
+	background: linear-gradient(to right top,rgb(32, 32, 36), rgb(42, 42, 94));
+    background-repeat: no-repeat;
 }
 
 .container {
