@@ -1,0 +1,12 @@
+@mixin barlow($font-size, $font-weight){
+    font-family: Barlow;
+font-size: 64px;
+font-weight: 300;
+line-height: 76.8px;
+letter-spacing: 0.045em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
