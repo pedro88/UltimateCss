@@ -266,7 +266,7 @@ html {
 	margin-left: 30px;
 }
 
-.footer {
+footer {
 	width: 80%;
     margin-bottom: 20px;
 }
@@ -275,7 +275,7 @@ html {
 	flex-direction: row;
 	margin-bottom: 20px;
 }
-.footer p {
+footer p {
 	font-family: Barlow;
 	font-size: 16px;
 	font-weight: 400;
@@ -283,7 +283,7 @@ html {
 	letter-spacing: 3px;
 	color: rgba(255, 255, 255, 0.5);
 }
-.footer li {
+footer li {
 	color: white;
 	font-family: Barlow;
 	font-size: 16px;
