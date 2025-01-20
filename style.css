@@ -266,8 +266,8 @@ html {
 	margin-left: 30px;
 }
 
-.footer .container {
-	width: 60%;
+.footer {
+	width: 80%;
     margin-bottom: 20px;
 }
 .footer_flex_container {
@@ -310,7 +310,8 @@ html {
 hr {
 	height: 1px;
 	border-style: none;
-	background-color: white;
+	background-color: rgba(255, 255, 255, 0.08);
+    ;
 	margin-bottom: 30px;
 }
 
